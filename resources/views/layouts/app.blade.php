@@ -73,7 +73,7 @@
     <div class="container-fluid p-0 mb-2">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="{{ asset('images/parking_sample2.jpg') }}" alt="" style="max-height: 370px;">
+                <img class="img-fluid" src="{{ asset('images/parking_sample2.jpg', env('REDIRECT_HTTPS')) }}" alt="" style="max-height: 370px;">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -105,7 +105,7 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="{{ asset('images/parking_sample1.png') }}" alt="" style="max-height: 370px;">
+                <img class="img-fluid" src="{{ asset('images/parking_sample1.png', env('REDIRECT_HTTPS')) }}" alt="" style="max-height: 370px;">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -137,7 +137,7 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="{{ asset('images/basement_parking.jpg') }}" alt="" style="max-height: 370px;">
+                <img class="img-fluid" src="{{ asset('images/basement_parking.jpg', env('REDIRECT_HTTPS')) }}" alt="" style="max-height: 370px;">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -216,7 +216,7 @@
                     <div class="row g-3">
                         <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
                             <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" src="{{ asset('images/basement_parking.jpg') }}" alt="" style="object-fit: cover">
+                                <img class="img-fluid" src="{{ asset('images/basement_parking.jpg', env('REDIRECT_HTTPS')) }}" alt="" style="object-fit: cover">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
                                     <h5 class="m-0">Basement Parking</h5>
                                     <small class="text-primary">203 Slots</small>
@@ -225,7 +225,7 @@
                         </div>
                         <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s">
                             <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" src="{{ asset('images/openground_parking.jpg') }}" alt="" style="object-fit: cover;">
+                                <img class="img-fluid" src="{{ asset('images/openground_parking.jpg', env('REDIRECT_HTTPS')) }}" alt="" style="object-fit: cover;">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
                                     <h5 class="m-0">Open ground</h5>
                                     <small class="text-primary">56 slots</small>
@@ -234,7 +234,7 @@
                         </div>
                         <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
                             <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" src="{{ asset('images/private_parking02.jpg') }}" alt="" style="object-fit: cover;">
+                                <img class="img-fluid" src="{{ asset('images/private_parking02.jpg', env('REDIRECT_HTTPS')) }}" alt="" style="object-fit: cover;">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
                                     <h5 class="m-0">Private Parking</h5>
                                     <small class="text-primary">67 slots</small>
@@ -245,7 +245,7 @@
                 </div>
                 <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px;">
                     <a class="position-relative d-block h-100 overflow-hidden" href="">
-                        <img class="img-fluid" src="{{ asset('images/mall_park.jpg') }}" alt="" style="object-fit: cover;">
+                        <img class="img-fluid" src="{{ asset('images/mall_park.jpg', env('REDIRECT_HTTPS')) }}" alt="" style="object-fit: cover;">
                         <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
                             <h5 class="m-0">Mall Parking</h5>
                             <small class="text-primary">128 slots</small>
@@ -269,7 +269,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="course-item bg-light">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="{{ asset('images/westside.jpg') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('images/westside.jpg', env('REDIRECT_HTTPS')) }}" alt="">
                             <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Join Now</a>
@@ -297,7 +297,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="course-item bg-light">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="{{ asset('images/galleria.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('images/galleria.png', env('REDIRECT_HTTPS')) }}" alt="">
                             <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Join Now</a>
@@ -325,7 +325,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="course-item bg-light">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="{{ asset('images/afya_centre.png') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('images/afya_centre.png', env('REDIRECT_HTTPS')) }}" alt="">
                             <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Join Now</a>
@@ -366,28 +366,28 @@
                     <div class="testimonial-item text-center" >
                         <div class="course-item bg-light m-0" style="height: 30rem; width: 15rem;">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="{{ asset('images/screenshot009.jpeg') }}" alt="" style="height: 30rem; width: 15rem;">
+                                <img class="img-fluid" src="{{ asset('images/screenshot009.jpeg', env('REDIRECT_HTTPS')) }}" alt="" style="height: 30rem; width: 15rem;">
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-item text-center">
                         <div class="course-item bg-light m-0" style="height: 30rem; width: 15rem;">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="{{ asset('images/screenshot008.jpeg') }}" alt="" style="height: 30rem; width: 15rem;">
+                                <img class="img-fluid" src="{{ asset('images/screenshot008.jpeg', env('REDIRECT_HTTPS')) }}" alt="" style="height: 30rem; width: 15rem;">
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-item text-center">
                         <div class="course-item bg-light m-0" style="height: 30rem; width: 15rem;">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="{{ asset('images/screenshot007.jpeg') }}" alt="" style="height: 30rem; width: 15rem;">
+                                <img class="img-fluid" src="{{ asset('images/screenshot007.jpeg', env('REDIRECT_HTTPS')) }}" alt="" style="height: 30rem; width: 15rem;">
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-item text-center">
                         <div class="course-item bg-light m-0" style="height: 30rem; width: 15rem;">
                             <div class="position-relative overflow-hidden">
-                                <img class="img-fluid" src="{{ asset('images/screenshot001.png') }}" alt="" style="height: 30rem; width: 15rem;">
+                                <img class="img-fluid" src="{{ asset('images/screenshot001.png', env('REDIRECT_HTTPS')) }}" alt="" style="height: 30rem; width: 15rem;">
                             </div>
                         </div>
                     </div>
@@ -405,7 +405,7 @@
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
                 <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="{{ asset('images/avator.jpg') }}" style="width: 80px; height: 80px;">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="{{ asset('images/avator.jpg', env('REDIRECT_HTTPS')) }}" style="width: 80px; height: 80px;">
                     <h5 class="mb-0">Dennis W</h5>
                     <p>Nairobi</p>
                     <div class="testimonial-text bg-light text-center p-4">
@@ -413,7 +413,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="{{ asset('images/avator.jpg') }}" style="width: 80px; height: 80px;">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="{{ asset('images/avator.jpg', env('REDIRECT_HTTPS')) }}" style="width: 80px; height: 80px;">
                     <h5 class="mb-0">Mercy Mutava</h5>
                     <p>Thika</p>
                     <div class="testimonial-text bg-light text-center p-4">
@@ -421,7 +421,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="border rounded-circle p-2 mx-auto mb-3" src="{{ asset('images/avator.jpg') }}" style="width: 80px; height: 80px;">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="{{ asset('images/avator.jpg', env('REDIRECT_HTTPS')) }}" style="width: 80px; height: 80px;">
                     <h5 class="mb-0">Wekesa J</h5>
                     <p>Mombasa</p>
                     <div class="testimonial-text bg-light text-center p-4">
@@ -525,11 +525,11 @@
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="{{ asset('js/wow.min.js') }}" defer></script>
-    <script src="{{ asset('js/easing.min.js') }}" defer></script>
-    <script src="{{ asset('js/waypoints.min.js') }}" defer></script>
-    <script src="{{ asset('js/owl.carousel.min.js') }}" defer></script>
-    <script src="{{ asset('js/main.js') }}" defer></script>
+    <script src="{{ asset('js/wow.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
+    <script src="{{ asset('js/easing.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
+    <script src="{{ asset('js/waypoints.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
+    <script src="{{ asset('js/owl.carousel.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
+    <script src="{{ asset('js/main.js', env('REDIRECT_HTTPS')) }}" defer></script>
 
 
 </body>
