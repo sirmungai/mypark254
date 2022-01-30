@@ -297,8 +297,10 @@
                     <a class="btn btn-link" href="{{ url('/about_us') }}">Contact Us</a>
                     <a class="btn btn-link" href="{{ url('/privacy-policy') }}">Privacy Policy</a>
                     <a class="btn btn-link" href="{{ url('/terms-and-conditions') }}">Terms & Condition</a>
+                    <a class="btn btn-link" href="{{ url('/FAQs') }}">Cancellation Policy</a>
+                    <a class="btn btn-link" href="{{ url('/FAQs') }}">Overstay Policy</a>
                     <a class="btn btn-link" href="{{ url('/FAQs') }}">FAQs & Help</a>
-                    <div class="row">
+                    <div class="row mt-3">
                         <div class="col-md-6 mb-2">
                             <a href="https://www.apple.com/app-store">
                                 <img src="{{ asset('images/appstore001.svg') }}" alt="appstore">

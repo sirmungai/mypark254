@@ -81,7 +81,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="collapseOne">
                             Are there any additional fees?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="occupationalSafetyAudits" class="collapse" aria-labelledby="ocuupationalSafetyAudits"
@@ -90,7 +90,7 @@
                         <p>
                             Any time parked outside the arrival or departure listed on your pass will likely incur an additional onsite fee, as determined by the parking provider. Also, oversize vehicles may be charged an additional fee, which may apply to any vehicle larger than a sedan. Fee amounts vary between individual Parking Operators, and will be assessed on-site if you do not prepay for an oversize vehicle through our platform.
                             You may also be charged a parking fee at check out. At Park254 we want to make parking easier and more convenient. While we understand no one likes to pay more, fees are necessary to continue to fund the improvements in parking convenience that we strive to provide.
-                            Although pricing structures are determined individually by the facility owner/operator, ParkWhiz prices tend to be cheaper than drive-up in most cases! If you ever feel the rate on ParkWhiz was more expensive than drive-up, take a photo of the price on-site and send us an email! We love deals as much as you do and are eager to ensure you're getting a fair rate.
+                            Although pricing structures are determined individually by the facility owner/operator, Park254 prices tend to be cheaper than drive-up in most cases! If you ever feel the rate on ParkWhiz was more expensive than drive-up, take a photo of the price on-site and send us an email! We love deals as much as you do and are eager to ensure you're getting a fair rate.
                         </p>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="fireSafetyAudits">
                             What if my event is canceled or postponed?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="fireSafetyAudits" class="collapse" aria-labelledby="fireSafetyAudits"
@@ -121,7 +121,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="riskAssessment">
                             Can I park for 24 hours a day?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="riskAssessment" class="collapse" aria-labelledby="riskAssessment"
@@ -140,7 +140,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="environmentAudits">
                             Do I have in-and-out privileges?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
 
                 </div>
@@ -160,7 +160,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="energyAudits">
                             How do I present my my pass on-site?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="energyAudits" class="collapse" aria-labelledby="energyAudits"
@@ -178,7 +178,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="noiseMeasurement">
                             How do I apply a discount code?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="noiseMeasurement" class="collapse" aria-labelledby="noiseMeasurement"
@@ -194,13 +194,41 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="airQualityMeasurement">
                             What's the cancellation policy?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="airQualityMeasurement" class="collapse" aria-labelledby="airQualityMeasurement"
                      data-parent="#auditsAccordion">
                     <div class="card-body">
-                        All parking passes are eligible for a full refund prior to the start time on the pass, except where noted otherwise.Please keep in mind, once the arrival time has passed, all bookings are non-refundable. Parking purchased on a partner website or as part of a parking package are non-refundable.
+                        <h5>CANCELLATION POLICY</h5>
+                        <p>Plans change. We get it. Receive a full refund or free cancellation until 6 hours before check-in (time shown in the parking pass).After that, cancel before check-in and get a 70% refund, minus the service fee.</p>
+                        <p>You can cancel your spot by going to “My Parking”  in your account and clicking CANCEL. If you need to cancel after your reservation’s start time, call our customer service team at 0729558499</p>
+                        <p>Our mission is to make parking easy. If anything about your experience goes awry, let us know and we’ll make it right.</p>
+                        <h6>How long does it take to get a refund?</h6>
+                        <p>We send refunds immediately upon cancellation and they usually show up within 3-5 days, but sometimes it takes a little longer before they reflect on the original payment method.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header text-white bg-success" data-toggle="collapse" data-target="#airQualityMeasurement1">
+                    <h5 class="mb-0">
+                        <button class="btn btn-success" aria-expanded="true" aria-controls="airQualityMeasurement1">
+                            What's the overstay policy?
+                        </button>
+
+                    </h5>
+                </div>
+                <div id="airQualityMeasurement1" class="collapse" aria-labelledby="airQualityMeasurement1"
+                     data-parent="#auditsAccordion">
+                    <div class="card-body">
+                        <h5>Overstay Policy</h5>
+                        <p>A driver will be liable to pay the full price for any additional time stayed.</p>
+                        <p>The driver will be liable to pay:</p>
+                        <p>°The hourly rate for every additional hour stayed. Any minutes under 1 hour will be charged as 1 hour.</p>
+                        <p>°Ksh.100 penalty charge to Park254 for administration and processing.</p>
+                        <p>However, if it is the first time the driver overstays, he/she will only pay for the additional time stayed(no penalty charge)</p>
+                        <p>The Owner shall authorize Park254 to collect payment of any such additional fees from the Driver on behalf of the Owner.</p>
+                        <p>Park254 has full discretion about whether any fees or fines will be applied for overstays and Park254's decision will be final.</p>
                     </div>
                 </div>
             </div>
@@ -210,13 +238,13 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="medicalExamination">
                             can I still make a booking with a rental car?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="medicalExamination" class="collapse" aria-labelledby="medicalExamination"
                      data-parent="#auditsAccordion">
                     <div class="card-body">
-                        Yes, you can book a space with JustPark if you've hired a vehicle. You may have noticed that you need to supply a vehicle registration when making a booking with us.
+                        Yes, you can book a space with Park254 if you've hired a vehicle. You may have noticed that you need to supply a vehicle registration when making a booking with us.
                     </div>
                 </div>
             </div>
