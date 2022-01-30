@@ -203,7 +203,8 @@
         </p>
 
             <h6>18.	Privacy Policy</h6>
-        <p>We collect and use personal information in accordance with our privacy policy (available on our website at https://park254.com/privacy).
+        <p>We collect and use personal information in accordance with our privacy policy (available on our website at <a
+                href="{{ url('/privacy-policy') }}">www.park254.com</a>).
         </p>
 
             <h6>19.	Acceptable Use Policy</h6>

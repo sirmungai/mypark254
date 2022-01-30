@@ -31,8 +31,6 @@ Route::view('/privacy-policy', 'pages.privacy-policy');
 
 Route::view('/terms-and-conditions', 'pages.terms-and-conditions');
 
-Route::view('/accordiontest', 'pages.accordiontest');
-
 Route::view('/FAQs', 'pages.FAQs');
 
 Route::view('/help', 'pages.help');

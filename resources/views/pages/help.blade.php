@@ -87,7 +87,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="bookSpace">
                             How do I book a parking space with Park254?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="bookSpace" class="collapse" aria-labelledby="bookSpace"
@@ -120,7 +120,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="fireSafetyAudits">
                             How do I change my vehicle details?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="vehicleDetails" class="collapse" aria-labelledby="vehicleDetails"
@@ -142,7 +142,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="anotherVehicle">
                             How to add another vehicle to your booking?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="anotherVehicle" class="collapse" aria-labelledby="anotherVehicle"
@@ -160,7 +160,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="overStay">
                             What if I overstay my booking?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
 
                 </div>
@@ -180,7 +180,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="timeChange">
                             How do I change the times for my booking?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="timeChange" class="collapse" aria-labelledby="timeChange"
@@ -202,7 +202,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="promoCode">
                             How do I use a Promo Code?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="promoCode" class="collapse" aria-labelledby="promoCode"
@@ -218,7 +218,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="transactionFree">
                             Why is Park254 charging a Transaction Fee?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="transactionFree" class="collapse" aria-labelledby="transactionFree"
@@ -234,7 +234,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="bookingProof">
                             Will I need to display any proof of my booking?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="bookingProof" class="collapse" aria-labelledby="bookingProof"
@@ -252,7 +252,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="spaceOwnerContact">
                             How do I contact a space owner?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="spaceOwnerContact" class="collapse" aria-labelledby="spaceOwnerContact"
@@ -268,7 +268,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="leaveReview">
                             How do I leave a review?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="leaveReview" class="collapse" aria-labelledby="leaveReview"
@@ -286,7 +286,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="accessProblem">
                             What can I do if there is a problem with the space or I'm unable to access the space?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="accessProblem" class="collapse" aria-labelledby="accessProblem"
@@ -309,7 +309,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="spaceOccupied">
                             There is a car in my space, what do I do?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="spaceOccupied" class="collapse" aria-labelledby="spaceOccupied"
@@ -333,7 +333,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="cancelSession">
                             I need to cancel my session - how do I do this?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="cancelSession" class="collapse" aria-labelledby="cancelSession"
@@ -354,7 +354,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="parkingDamage">
                             What happens if my vehicle is damaged whilst parking?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="parkingDamage" class="collapse" aria-labelledby="parkingDamage"
@@ -382,7 +382,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="freeSignup">
                             Is it free to sign up and list my space?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="freeSignup" class="collapse" aria-labelledby="freeSignup"
@@ -401,7 +401,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="listSpace">
                             How do I list my space?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="listSpace" class="collapse" aria-labelledby="listSpace"
@@ -426,7 +426,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="greatOwner">
                             How can I be a great space owner?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="greatOwner" class="collapse" aria-labelledby="greatOwner"
@@ -447,7 +447,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="gettingEarnings">
                             How do I get my earnings?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
 
                 </div>
@@ -472,7 +472,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="ownerCancelBooking">
                             How do I cancel a booking? (As a Space Owner)
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="ownerCancelBooking" class="collapse" aria-labelledby="ownerCancelBooking"
@@ -493,7 +493,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="editSpace">
                             How do I update or edit my space?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="editSpace" class="collapse" aria-labelledby="editSpace"
@@ -518,7 +518,7 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="driverOverstay">
                             What happens if the driver overstays?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="driverOverstay" class="collapse" aria-labelledby="driverOverstay"
@@ -535,14 +535,14 @@
                         <button class="btn btn-success" aria-expanded="true" aria-controls="deactivateListing">
                             How do I deactivate my listing?
                         </button>
-                        <span class="float-right font-weight-bold">+</span>
+
                     </h5>
                 </div>
                 <div id="deactivateListing" class="collapse" aria-labelledby="deactivateListing"
                      data-parent="#ownersAccordion">
                     <div class="card-body">
-                        <p>Can't offer your space through JustPark anymore? No problem. It's easy to deactivate your listing. Just head to Manage your parking spaces and click Edit availability and then Make your space unavailable permanently on the listing you want to deactivate.</p>
-                        <p>Please note that this only removes your listing from JustPark searches, it doesn't deactivate your Park254 account.</p>
+                        <p>Can't offer your space through Park254 anymore? No problem. It's easy to deactivate your listing. Just head to Manage your parking spaces and click Edit availability and then Make your space unavailable permanently on the listing you want to deactivate.</p>
+                        <p>Please note that this only removes your listing from Park254 searches, it doesn't deactivate your Park254 account.</p>
                         <p>You won’t be able to deactivate your listing if you have any bookings upcoming or in progress. If you cannot accommodate these bookings any longer, please cancel them before proceeding to deactivate your space.</p>
                         <p>You can reactivate your account at any time by clicking Activate.</p>
                     </div>
