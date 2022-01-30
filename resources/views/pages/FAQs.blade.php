@@ -7,10 +7,11 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/favicon.png', env('REDIRECT_HTTPS')) }}">
-
     <title>{{ config('app.name', 'Laravel') }}</title>
 
+    <!-- Scripts -->
+{{--    <script src="{{ asset('js/app.js') }}" defer></script>--}}
+{{--    <script src="{{ asset('js/scripts.js') }}" defer></script>--}}
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -21,11 +22,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ secure_asset('css/animate.min.css') }}" rel="stylesheet">
-    <link href="{{ secure_asset('css/owl.carousel.min.css') }}" rel="stylesheet">
-    <link href="{{ secure_asset('css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{ secure_asset('css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/animate.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/owl.carousel.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
 </head>
 <body>
@@ -294,11 +295,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Cities and Towns</h4>
-                    <a class="btn btn-link" href="">Nairobi</a>
-                    <a class="btn btn-link" href="">Mombasa</a>
-                    <a class="btn btn-link" href="">Kisumu</a>
-                    <a class="btn btn-link" href="">Nakuru</a>
-                    <a class="btn btn-link" href="">Kiambu</a>
+                    <a class="btn btn-link">Nairobi</a>
+                    <a class="btn btn-link">Mombasa</a>
+                    <a class="btn btn-link">Kisumu</a>
+                    <a class="btn btn-link">Nakuru</a>
+                    <a class="btn btn-link">Kiambu</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Newsletter</h4>

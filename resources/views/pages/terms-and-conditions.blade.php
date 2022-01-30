@@ -330,11 +330,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Cities and Towns</h4>
-                    <a class="btn btn-link" href="">Nairobi</a>
-                    <a class="btn btn-link" href="">Mombasa</a>
-                    <a class="btn btn-link" href="">Kisumu</a>
-                    <a class="btn btn-link" href="">Nakuru</a>
-                    <a class="btn btn-link" href="">Kiambu</a>
+                    <a class="btn btn-link">Nairobi</a>
+                    <a class="btn btn-link">Mombasa</a>
+                    <a class="btn btn-link">Kisumu</a>
+                    <a class="btn btn-link">Nakuru</a>
+                    <a class="btn btn-link">Kiambu</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Newsletter</h4>

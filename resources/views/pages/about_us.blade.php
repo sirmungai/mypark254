@@ -128,8 +128,8 @@
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fas fa-envelope-square"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/giftmazera"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="mailto:mazera@park254.co.ke"><i class="fas fa-envelope-square"></i></a>
                             </div>
                         </div>
                         <div class="text-center p-4">
@@ -145,8 +145,8 @@
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fas fa-envelope-square"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/ndiranguloise01"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="mailto:Loise.N@park254.co.ke"><i class="fas fa-envelope-square"></i></a>
                             </div>
                         </div>
                         <div class="text-center p-4">
@@ -201,11 +201,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Cities and Towns</h4>
-                    <a class="btn btn-link" href="">Nairobi</a>
-                    <a class="btn btn-link" href="">Mombasa</a>
-                    <a class="btn btn-link" href="">Kisumu</a>
-                    <a class="btn btn-link" href="">Nakuru</a>
-                    <a class="btn btn-link" href="">Kiambu</a>
+                    <a class="btn btn-link">Nairobi</a>
+                    <a class="btn btn-link">Mombasa</a>
+                    <a class="btn btn-link">Kisumu</a>
+                    <a class="btn btn-link">Nakuru</a>
+                    <a class="btn btn-link">Kiambu</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Newsletter</h4>
