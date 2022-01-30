@@ -525,11 +525,11 @@
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="{{ asset('js/wow.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
-    <script src="{{ asset('js/easing.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
-    <script src="{{ asset('js/waypoints.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
-    <script src="{{ asset('js/owl.carousel.min.js', env('REDIRECT_HTTPS')) }}" defer></script>
-    <script src="{{ asset('js/main.js', env('REDIRECT_HTTPS')) }}" defer></script>
+    <script src="{{ secure_asset('js/wow.min.js') }}" defer></script>
+    <script src="{{ secure_asset('js/easing.min.js') }}" defer></script>
+    <script src="{{ secure_asset('js/waypoints.min.js') }}" defer></script>
+    <script src="{{ secure_asset('js/owl.carousel.min.js') }}" defer></script>
+    <script src="{{ secure_asset('js/main.js') }}" defer></script>
 
 
 </body>
