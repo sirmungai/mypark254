@@ -11,8 +11,6 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
-    <!-- Scripts -->
-
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -49,7 +47,7 @@
                 <a href="{{ url('/about_us') }}" class="nav-item nav-link">About Us</a>
                 <a href="{{ url('/how-it-works') }}" class="nav-item nav-link">How It Works</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Download app</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Download the app</a>
                     <div class="dropdown-menu fade-down m-0">
                         <a href="https://play.google.com/store" class="dropdown-item">
                             <i class="fab fa-google-play btn-icon-prepend"></i>
@@ -58,6 +56,10 @@
                         <a href="https://www.apple.com/app-store" class="dropdown-item">
                             <i class="fab fa-apple btn-icon-prepend"></i>
                             App Store
+                        </a>
+                        <a href="{{ secure_asset('apps/park254.apk') }}" class="dropdown-item">
+                            <i class="fab fa-google-play btn-icon-prepend"></i>
+                            Download
                         </a>
                     </div>
                 </div>

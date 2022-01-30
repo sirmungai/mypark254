@@ -49,7 +49,7 @@
                 <a href="{{ url('/about_us') }}" class="nav-item nav-link">About Us</a>
                 <a href="{{ url('/how-it-works') }}" class="nav-item nav-link">How It Works</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our apps</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Download the app</a>
                     <div class="dropdown-menu fade-down m-0">
                         <a href="https://play.google.com/store" class="dropdown-item">
                             <i class="fab fa-google-play btn-icon-prepend"></i>
@@ -59,11 +59,15 @@
                             <i class="fab fa-apple btn-icon-prepend"></i>
                             App Store
                         </a>
+                        <a href="{{ secure_asset('apps/park254.apk') }}" class="dropdown-item">
+                            <i class="fab fa-google-play btn-icon-prepend"></i>
+                            Download
+                        </a>
                     </div>
                 </div>
                 <a href="{{ url('/help') }}" class="nav-item nav-link">Help</a>
             </div>
-{{--            <a href="{{ asset('apps/park254.apk') }}" download class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Download app<i class="fa fa-arrow-down ms-3"></i></a>--}}
+            {{--            <a href="{{ asset('apps/park254.apk') }}" download class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Download app<i class="fa fa-arrow-down ms-3"></i></a>--}}
         </div>
     </nav>
     <!-- Navbar End -->
