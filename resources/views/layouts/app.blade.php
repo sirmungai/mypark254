@@ -49,7 +49,7 @@
                 <a href="{{ url('/about_us') }}" class="nav-item nav-link">About Us</a>
                 <a href="{{ url('/how-it-works') }}" class="nav-item nav-link">How It Works</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our apps</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Download app</a>
                     <div class="dropdown-menu fade-down m-0">
                         <a href="https://play.google.com/store" class="dropdown-item">
                             <i class="fab fa-google-play btn-icon-prepend"></i>

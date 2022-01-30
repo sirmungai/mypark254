@@ -104,7 +104,7 @@
                             <p class="mb-0"><i class="fa fa-arrow-right text-success me-2"></i>Save with monthly plans</p>
                         </div>
                     </div>
-                    <a class="btn btn-success py-3 px-5 mt-2" href="">Read More</a>
+{{--                    <a class="btn btn-success py-3 px-5 mt-2" href="">Read More</a>--}}
                 </div>
             </div>
         </div>
@@ -126,9 +126,8 @@
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fas fa-envelope-square"></i></a>
                             </div>
                         </div>
                         <div class="text-center p-4">
@@ -144,9 +143,8 @@
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fas fa-envelope-square"></i></a>
                             </div>
                         </div>
                         <div class="text-center p-4">

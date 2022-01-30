@@ -137,7 +137,7 @@
         </p>
         <p>You may terminate your account or any individual Service with us for any reason at any time by contacting our Park254 Support Service by:
         </p>
-        <p>Telephone on 0729558499/0726527543; and / or sending an email to park42963@gmail.com
+        <p>Telephone on 0729558499/0726527543; and / or sending an email to info@park254.com
         Any fees you have paid us prior to your termination of your account are non-refundable except as set out in clause 7.5 above.
         </p>
         <p>If we wish to terminate your Service for reasons other than a breach of these conditions, we may do so by giving you 6 days written notice. In this circumstance, we will refund any remaining unused credit on your account.
@@ -187,7 +187,7 @@
         </p>
 
             <h6>14.	Changes to Terms</h6>
-        <p>We may change the terms and conditions of this agreement (including our Acceptable Use Policy and Privacy Policy) at any time. Details of our current terms will always be available on our website. Changes to this agreement will become effective upon their publication on our website and your use of the Services following publication of any amended version of this agreement will constitute acceptance of the amended terms. If you do not wish to accept the amended terms and conditions, you may terminate this agreement by contacting our Park254 Support Service by:0729558499/0726527543; and / or sending an email to park42963@gmail.com
+        <p>We may change the terms and conditions of this agreement (including our Acceptable Use Policy and Privacy Policy) at any time. Details of our current terms will always be available on our website. Changes to this agreement will become effective upon their publication on our website and your use of the Services following publication of any amended version of this agreement will constitute acceptance of the amended terms. If you do not wish to accept the amended terms and conditions, you may terminate this agreement by contacting our Park254 Support Service by:0729558499/0726527543; and / or sending an email to info@park254.com
         </p>
 
             <h6>15.	Entire Agreement</h6>
@@ -215,7 +215,7 @@
         <p>Acceptance of the amended terms. If you do not wish to accept the amended terms and conditions, you may terminate this agreement by contacting our Park254 Support Service by:
         </p>
         <p>Telephone 0729558499/0726527543; and / or</p>
-        <p>Sending an email to park42963@gmail.com</p>
+        <p>Sending an email to info@park254.com</p>
         <p>We will take reasonable measures to ensure that the owners and operators of our Services will comply with this Acceptable Use Policy.
         We reserve the right to monitor your compliance by any lawful means and to take action if we (in our sole discretion) deem it necessary. We will also investigate and, if appropriate, act on any complaint from a complainant. We will cooperate fully with law enforcement agencies if required by law.
         You must comply with all applicable Commonwealth, State and Territory laws. You must not act or fail to act in a way that would place us in breach of any applicable law, including those that regulate the provision of internet and telecommunications-related services.
@@ -263,7 +263,7 @@
         </p>
 
             <h6>20.	Complaints process</h6>
-        <p>Subject to clause 20.2, complaints about a customer of ours should be sent to  park42963@gmail.com
+        <p>Subject to clause 20.2, complaints about a customer of ours should be sent to  info@park254.com
         If you have a complaint about content accessible using our Service, you may contact the Communication Authority of Kenya in accordance with the complaints process detailed on their website: www.cak.go.ke.
         If we receive a complaint about a customer, we may refer it to the appropriate government agency or authority for action (which may include the Kenya Police, the Office of the Data Protection Commissioner (Data Commissioner), Competition Authority of Kenya, or  Communications Authority of Kenya.
         </p>
