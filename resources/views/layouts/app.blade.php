@@ -23,11 +23,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/animate.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/owl.carousel.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css', env('REDIRECT_HTTPS')) }}" rel="stylesheet">
+    <link href="{{ asset('css/animate.min.css', env('REDIRECT_HTTPS')) }}" rel="stylesheet">
+    <link href="{{ asset('css/owl.carousel.min.css', env('REDIRECT_HTTPS')) }}" rel="stylesheet">
+    <link href="{{ asset('css/bootstrap.min.css', env('REDIRECT_HTTPS')) }}" rel="stylesheet">
+    <link href="{{ asset('css/style.css', env('REDIRECT_HTTPS')) }}" rel="stylesheet">
 
 </head>
 <body>
