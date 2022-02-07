@@ -63,7 +63,7 @@
                         </a>
                     </div>
                 </div>
-                <a href="{{ url('/help') }}" class="nav-item nav-link">Help</a>
+                <a href="{{ url('/help') }}" class="nav-item nav-link">FAQs</a>
             </div>
         </div>
     </nav>
@@ -282,9 +282,7 @@
 
 
 
-    {{--        <main class="py-4">--}}
-    {{--            @yield('content')--}}
-    {{--        </main>--}}
+
 </div>
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
