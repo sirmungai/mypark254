@@ -57,22 +57,17 @@
                             <i class="fab fa-apple btn-icon-prepend"></i>
                             App Store
                         </a>
-                        <a href="{{ secure_asset('apps/park254.apk') }}" class="dropdown-item">
-                            <i class="fab fa-google-play btn-icon-prepend"></i>
-                            Download
-                        </a>
                     </div>
                 </div>
                 <a href="{{ url('/help') }}" class="nav-item nav-link">Help</a>
             </div>
-            {{--            <a href="{{ asset('apps/park254.apk') }}" download class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Download app<i class="fa fa-arrow-down ms-3"></i></a>--}}
         </div>
     </nav>
     <!-- Navbar End -->
 
     <!-- help image start -->
     <div class="container">
-        <img class="img-fluid" src="{{ asset('images/need_help002.png') }}" alt="">
+        <img class="img-fluid" src="{{ asset('images/faqs002.jpeg') }}" alt="">
     </div>
     <!-- help image end-->
 
@@ -368,6 +363,82 @@
                     </div>
                 </div>
             </div>
+            <div class="card">
+                <div class="card-header text-white bg-success" data-toggle="collapse" data-target="#discountCode">
+                    <h5 class="mb-0">
+                        <button class="btn btn-success" aria-expanded="true" aria-controls="discountCode">
+                            How do I apply a discount code?
+                        </button>
+
+                    </h5>
+                </div>
+                <div id="discountCode" class="collapse" aria-labelledby="discountCode"
+                     data-parent="#driversAccordion">
+                    <div class="card-body">
+                        If you received a promotional discount code from Park254, you'll want to be logged into your Park254 account before applying the code on the checkout page. Make sure you’re using the same email address to log in as the one where you received that coupon! Also note the fine print of the promo - "book by" and "park by" requirements often apply.
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header text-white bg-success" data-toggle="collapse" data-target="#cancellationPolicy">
+                    <h5 class="mb-0">
+                        <button class="btn btn-success" aria-expanded="true" aria-controls="cancellationPolicy">
+                            What's the cancellation policy?
+                        </button>
+
+                    </h5>
+                </div>
+                <div id="cancellationPolicy" class="collapse" aria-labelledby="cancellationPolicy"
+                     data-parent="#driversAccordion">
+                    <div class="card-body">
+                        <h5>CANCELLATION POLICY</h5>
+                        <p>Plans change. We get it. Receive a full refund or free cancellation until 6 hours before check-in (time shown in the parking pass).After that, cancel before check-in and get a 70% refund, minus the service fee.</p>
+                        <p>You can cancel your spot by going to “My Parking”  in your account and clicking CANCEL. If you need to cancel after your reservation’s start time, call our customer service team at 0729558499</p>
+                        <p>Our mission is to make parking easy. If anything about your experience goes awry, let us know and we’ll make it right.</p>
+                        <h6>How long does it take to get a refund?</h6>
+                        <p>We send refunds immediately upon cancellation and they usually show up within 3-5 days, but sometimes it takes a little longer before they reflect on the original payment method.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header text-white bg-success" data-toggle="collapse" data-target="#overstayPolicy">
+                    <h5 class="mb-0">
+                        <button class="btn btn-success" aria-expanded="true" aria-controls="overstayPolicy">
+                            What's the overstay policy?
+                        </button>
+
+                    </h5>
+                </div>
+                <div id="overstayPolicy" class="collapse" aria-labelledby="overstayPolicy"
+                     data-parent="#driversAccordion">
+                    <div class="card-body">
+                        <h5>Overstay Policy</h5>
+                        <p>A driver will be liable to pay the full price for any additional time stayed.</p>
+                        <p>The driver will be liable to pay:</p>
+                        <p>°The hourly rate for every additional hour stayed. Any minutes under 1 hour will be charged as 1 hour.</p>
+                        <p>°Ksh.100 penalty charge to Park254 for administration and processing.</p>
+                        <p>However, if it is the first time the driver overstays, he/she will only pay for the additional time stayed(no penalty charge)</p>
+                        <p>The Owner shall authorize Park254 to collect payment of any such additional fees from the Driver on behalf of the Owner.</p>
+                        <p>Park254 has full discretion about whether any fees or fines will be applied for overstays and Park254's decision will be final.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card" >
+                <div class="card-header text-white bg-success" data-toggle="collapse" data-target="#rentalCarBooking">
+                    <h5 class="mb-0">
+                        <button class="btn btn-success" aria-expanded="true" aria-controls="rentalCarBooking">
+                            can I still make a booking with a rental car?
+                        </button>
+
+                    </h5>
+                </div>
+                <div id="rentalCarBooking" class="collapse" aria-labelledby="rentalCarBooking"
+                     data-parent="#driversAccordion">
+                    <div class="card-body">
+                        Yes, you can book a space with Park254 if you've hired a vehicle. You may have noticed that you need to supply a vehicle registration when making a booking with us.
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>
@@ -586,7 +657,7 @@
                     <h4 class="text-white mb-3">Contact</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Bogani East Road, Karen, Nairobi</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 729 558499</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@park254.com</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@park254.co.ke</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href="https://twitter.com/park_254"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/park_254/"><i class="fab fa-instagram"></i></a>
@@ -620,8 +691,7 @@
                     </div>
                     <div class="col-md-6 text-center ">
                         <div class="footer-menu">
-                            <a href="{{ url('/main') }}">Home</a>
-                            <a href="{{ url('/FAQs') }}">Help</a>
+                            <a href="{{ url('/terms-and-conditions') }}">T&Cs</a>
                             <a href="{{ url('/FAQs') }}">FAQs</a>
                         </div>
                     </div>

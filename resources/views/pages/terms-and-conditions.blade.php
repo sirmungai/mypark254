@@ -65,7 +65,6 @@
                 </div>
                 <a href="{{ url('/help') }}" class="nav-item nav-link">Help</a>
             </div>
-            {{--            <a href="{{ asset('apps/park254.apk') }}" download class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Download app<i class="fa fa-arrow-down ms-3"></i></a>--}}
         </div>
     </nav>
     <!-- Navbar End -->
@@ -140,7 +139,7 @@
         </p>
         <p>You may terminate your account or any individual Service with us for any reason at any time by contacting our Park254 Support Service by:
         </p>
-        <p>Telephone on 0729558499/0726527543; and / or sending an email to info@park254.com
+        <p>Telephone on 0729558499/0726527543; and / or sending an email to info@park254.co.ke
         Any fees you have paid us prior to your termination of your account are non-refundable except as set out in clause 7.5 above.
         </p>
         <p>If we wish to terminate your Service for reasons other than a breach of these conditions, we may do so by giving you 6 days written notice. In this circumstance, we will refund any remaining unused credit on your account.
@@ -207,7 +206,7 @@
 
             <h6>18.	Privacy Policy</h6>
         <p>We collect and use personal information in accordance with our privacy policy (available on our website at <a
-                href="{{ url('/privacy-policy') }}">www.park254.com</a>).
+                href="{{ url('/privacy-policy') }}">www.park254.co.ke</a>).
         </p>
 
             <h6>19.	Acceptable Use Policy</h6>
@@ -218,7 +217,7 @@
         <p>Acceptance of the amended terms. If you do not wish to accept the amended terms and conditions, you may terminate this agreement by contacting our Park254 Support Service by:
         </p>
         <p>Telephone 0729558499/0726527543; and / or</p>
-        <p>Sending an email to info@park254.com</p>
+        <p>Sending an email to info@park254.co.ke</p>
         <p>We will take reasonable measures to ensure that the owners and operators of our Services will comply with this Acceptable Use Policy.
         We reserve the right to monitor your compliance by any lawful means and to take action if we (in our sole discretion) deem it necessary. We will also investigate and, if appropriate, act on any complaint from a complainant. We will cooperate fully with law enforcement agencies if required by law.
         You must comply with all applicable Commonwealth, State and Territory laws. You must not act or fail to act in a way that would place us in breach of any applicable law, including those that regulate the provision of internet and telecommunications-related services.
@@ -266,7 +265,7 @@
         </p>
 
             <h6>20.	Complaints process</h6>
-        <p>Subject to clause 20.2, complaints about a customer of ours should be sent to  info@park254.com
+        <p>Subject to clause 20.2, complaints about a customer of ours should be sent to  info@park254.co.ke
         If you have a complaint about content accessible using our Service, you may contact the Communication Authority of Kenya in accordance with the complaints process detailed on their website: www.cak.go.ke.
         If we receive a complaint about a customer, we may refer it to the appropriate government agency or authority for action (which may include the Kenya Police, the Office of the Data Protection Commissioner (Data Commissioner), Competition Authority of Kenya, or  Communications Authority of Kenya.
         </p>

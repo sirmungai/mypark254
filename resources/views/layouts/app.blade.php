@@ -57,15 +57,10 @@
                             <i class="fab fa-apple btn-icon-prepend"></i>
                             App Store
                         </a>
-                        <a href="{{ secure_asset('apps/park254.apk') }}" class="dropdown-item">
-                            <i class="fab fa-google-play btn-icon-prepend"></i>
-                            Download
-                        </a>
                     </div>
                 </div>
                 <a href="{{ url('/help') }}" class="nav-item nav-link">Help</a>
             </div>
-{{--            <a href="{{ asset('apps/park254.apk') }}" download class="btn btn-success py-4 px-lg-5 d-none d-lg-block">Download app<i class="fa fa-arrow-down ms-3"></i></a>--}}
         </div>
     </nav>
     <!-- Navbar End -->
@@ -469,7 +464,7 @@
                         <h4 class="text-white mb-3">Contact</h4>
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Bogani East Road, Karen, Nairobi</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 729 558499</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@park254.com</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@park254.co.ke</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href="https://twitter.com/park_254"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/park_254/"><i class="fab fa-instagram"></i></a>
@@ -503,8 +498,7 @@
                         </div>
                         <div class="col-md-6 text-center ">
                             <div class="footer-menu">
-                                <a href="{{ url('/main') }}">Home</a>
-                                <a href="{{ url('/FAQs') }}">Help</a>
+                                <a href="{{ url('/terms-and-conditions') }}">T&Cs</a>
                                 <a href="{{ url('/FAQs') }}">FAQs</a>
                             </div>
                         </div>
